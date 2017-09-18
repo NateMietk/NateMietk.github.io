@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://nathanmietkiewicz.com/"
 title = "Nathan Mietkiewicz"
 copyright = "&copy; 2017 Nathan Mietkiewicz"
 theme = "hugo-academic"
