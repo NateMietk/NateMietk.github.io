@@ -1,4 +1,4 @@
-baseurl = "https://nathanmietkiewicz.com/"
+baseurl = "www.nathanmietkiewicz.com/"
 title = "Nathan Mietkiewicz"
 copyright = "&copy; 2017 Nathan Mietkiewicz"
 theme = "hugo-academic"
