@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>/publication/2017_schoennagel_etal_pnas/</loc>
+      <loc>/www.nathanmietkiewicz.com/publication/2017_schoennagel_etal_pnas/</loc>
       <lastmod>2017-07-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>/publication/2017_mietkiewicz_etal_jvs/</loc>
+      <loc>/www.nathanmietkiewicz.com/publication/2017_mietkiewicz_etal_jvs/</loc>
       <lastmod>2017-07-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,25 +23,7 @@
     
     <url>
     
-      <loc>/project/language-outcomes/</loc>
-      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/maps/</loc>
-      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/</loc>
+      <loc>/www.nathanmietkiewicz.com/post/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -50,7 +32,7 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>/www.nathanmietkiewicz.com/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +41,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>/www.nathanmietkiewicz.com/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +50,7 @@
     
     <url>
     
-      <loc>/publication/2016_bakaj_etal_ecosphere/</loc>
+      <loc>/www.nathanmietkiewicz.com/publication/2016_bakaj_etal_ecosphere/</loc>
       <lastmod>2016-06-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +59,7 @@
     
     <url>
     
-      <loc>/publication/2016_mietkiewicz_kulakwski_ecologicalapplications/</loc>
+      <loc>/www.nathanmietkiewicz.com/publication/2016_mietkiewicz_kulakwski_ecologicalapplications/</loc>
       <lastmod>2016-06-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,52 +68,7 @@
     
     <url>
     
-      <loc>/project/sex-diffs-language/</loc>
-      <lastmod>2016-05-11T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/2015_rogan_mietkiewicz/</loc>
+      <loc>/www.nathanmietkiewicz.com/publication/2015_rogan_mietkiewicz/</loc>
       <lastmod>2015-10-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -140,16 +77,7 @@
     
     <url>
     
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/2015_hart_etal_plosone/</loc>
+      <loc>/www.nathanmietkiewicz.com/publication/2015_hart_etal_plosone/</loc>
       <lastmod>2015-06-22T00:00:00+00:00</lastmod>
     </url>
     
@@ -158,16 +86,7 @@
     
     <url>
     
-      <loc>/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
+      <loc>/www.nathanmietkiewicz.com/publication_types/2/</loc>
       <lastmod>2017-07-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -177,7 +96,7 @@
     
     <url>
     
-      <loc>/publication_types/6/</loc>
+      <loc>/www.nathanmietkiewicz.com/publication_types/6/</loc>
       <lastmod>2015-10-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -187,8 +106,7 @@
     
     <url>
     
-      <loc>/tags/autism/</loc>
-      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+      <loc>/www.nathanmietkiewicz.com/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -197,46 +115,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/eye-tracking/</loc>
-      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/</loc>
+      <loc>/www.nathanmietkiewicz.com/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -246,47 +125,7 @@
     
     <url>
     
-      <loc>/tags/natural-language-processing/</loc>
-      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/outcomes/</loc>
-      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
+      <loc>/www.nathanmietkiewicz.com/publication_types/</loc>
       <lastmod>2017-07-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -296,37 +135,7 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
+      <loc>/www.nathanmietkiewicz.com/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
