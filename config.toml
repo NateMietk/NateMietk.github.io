@@ -154,6 +154,11 @@ defaultContentLanguageInSubdir = false
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Nathan_Mietkiewicz"
 
+  [[params.social]]
+    icon = "figshare"
+    icon_pack = "ai"
+    link = "https://figshare.com/authors/Nathan_Mietkiewicz/4455763"
+    
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
