@@ -14,6 +14,7 @@ weight = 1
   interests = [
     "Geospatial Analysis",
     "Disturbance Ecology",
+    "Spatiotemporal Modeling",
     "Reproducible Science"
   ]
 
