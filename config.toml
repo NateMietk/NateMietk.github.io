@@ -181,7 +181,7 @@ defaultContentLanguageInSubdir = false
   
 [[menu.main]]
   name = "Curriculum Vitae"
-  url = "#cv"
+  url = "https://github.com/NateMietk/curriculum-vitae/blob/master/docs/CV_NateMietkiewicz_2017.pdf?raw=true"
   weight = 5
   
 [[menu.main]]
