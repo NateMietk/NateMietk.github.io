@@ -25,6 +25,11 @@ weight = 1
   year = 2016
 
 [[education.courses]]
+  course = "MA in Geography"
+  institution = "Clark University"
+  year = 2015
+  
+[[education.courses]]
   course = "MSc. in Geographic Information Science for Development and Environment"
   institution = "Clark University"
   year = 2013
