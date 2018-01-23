@@ -14,9 +14,11 @@ weight = 1
   interests = [
     "Geospatial Analysis",
     "Disturbance Ecology",
+    "R",
     "Satellite Remote Sensing",
     "Spatiotemporal Modeling",
-    "Reproducible Science"
+    "Reproducible Science",
+    "Cloud Computing"
   ]
 
 # List your qualifications (such as academic degrees).
