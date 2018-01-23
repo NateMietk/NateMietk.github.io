@@ -14,7 +14,7 @@ weight = 1
   interests = [
     "Geospatial Analysis",
     "Disturbance Ecology",
-    "R",
+    "R / Tidyverse / RStudio / GitHub",
     "Satellite Remote Sensing",
     "Spatiotemporal Modeling",
     "Reproducible Science",

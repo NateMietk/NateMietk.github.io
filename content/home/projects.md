@@ -18,7 +18,10 @@ weight = 30
 view = 1
 
 # Filter toolbar.
-
+[[filter]]
+  name = "All"
+  tag = "*"
+  
 [[filter]]
   name = "Wildfire"
   tag = ".wildfire"
