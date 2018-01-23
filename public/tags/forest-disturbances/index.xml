@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forest Disturbances on Nathan Mietkiewicz</title>
+    <link>/tags/forest-disturbances/</link>
+    <description>Recent content in Forest Disturbances on Nathan Mietkiewicz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Nathan Mietkiewicz</copyright>
+    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/forest-disturbances/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How do pre-outbreak forest conditions mediate the effects of spruce beetle outbreaks on fuels complexes in subalpine forests of Colorado?</title>
+      <link>/project/fuels/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/fuels/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Add text&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is the relative importance of mountain pine beetle outbreaks versus antecedent climatic variability on the occurrence of large wildfires in the western U.S.?</title>
+      <link>/project/mpb_fire/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/mpb_fire/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Add text&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

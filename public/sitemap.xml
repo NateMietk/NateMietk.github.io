@@ -14,6 +14,24 @@
     
     <url>
     
+      <loc>/project/fuels/</loc>
+      <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/mpb_fire/</loc>
+      <lastmod>2018-01-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/2017_schoennagel_etal_pnas/</loc>
       <lastmod>2017-07-24T00:00:00+00:00</lastmod>
     </url>
@@ -116,6 +134,16 @@
     <url>
     
       <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/forest-disturbances/</loc>
+      <lastmod>2018-01-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
