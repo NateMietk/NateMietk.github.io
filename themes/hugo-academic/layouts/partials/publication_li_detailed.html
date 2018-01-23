@@ -27,14 +27,14 @@
     {{ end }}
 
       <h3 class="article-title" itemprop="name">
-        <a href="{{ .Permalink }}" itemprop="url">{{ .Title | markdownify}}</a>
+        <a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a>
       </h3>
 
       <div class="pub-abstract" itemprop="text">
         {{ if .Params.abstract_short }}
-        {{ .Params.abstract_short | markdownify }}
+        {{ .Params.abstract_short }}
         {{ else }}
-        {{ .Params.abstract | markdownify}}
+        {{ .Params.abstract }}
         {{ end }}
       </div>
 

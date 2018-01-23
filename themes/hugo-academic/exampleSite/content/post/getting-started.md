@@ -1,6 +1,5 @@
 +++
-date = 2016-04-20
-lastmod = 2017-09-03
+date = "2016-04-20T12:00:00"
 draft = false
 tags = ["academic", "hugo"]
 title = "Getting started with the Academic framework for Hugo"
@@ -27,8 +26,6 @@ Key features:
 - Responsive and mobile friendly
 - Simple and refreshing one page design
 - Easy to customize
-
-{{% toc %}}
 
 ## Installation
 

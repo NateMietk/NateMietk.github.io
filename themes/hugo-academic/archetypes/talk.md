@@ -1,8 +1,5 @@
 +++
-title = "{{ replace .TranslationBaseName "-" " " | title }}"
-date = {{ .Date }}
-draft = false
-
+title = ""
 abstract = ""
 abstract_short = ""
 event = ""
@@ -17,8 +14,7 @@ url_pdf = ""
 url_slides = ""
 url_video = ""
 
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+# Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
 caption = ""

@@ -1,6 +1,6 @@
 +++
 # Recent Posts widget.
-# This widget displays recent posts from `content/post/`.
+# Note: this widget will only display if `content/post/` contains posts.
 
 date = "2016-04-20T00:00:00"
 draft = false

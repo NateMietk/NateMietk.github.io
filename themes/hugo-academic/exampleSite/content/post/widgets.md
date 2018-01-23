@@ -1,5 +1,5 @@
 +++
-date = 2016-04-19
+date = "2016-04-20T11:00:00"
 draft = false
 tags = ["academic", "hugo"]
 title = "Customizing the homepage with widgets"
