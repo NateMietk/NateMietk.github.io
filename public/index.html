@@ -21,18 +21,13 @@
     <link rel="stylesheet" href="/css/highlight.min.css">
     
   
-  
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
-  
-  
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/css/academicons.min.css">
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono">
   <link rel="stylesheet" href="/css/hugo-academic.css">
   
   <link rel="stylesheet" href="/css/blue.css">
-  
-
   
 
   <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Nathan Mietkiewicz">
@@ -43,7 +38,20 @@
 
   <link rel="canonical" href="/">
 
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Montserrat:300,400">
   
+
+<title>Nathan Mietkiewicz</title>
+<meta property="og:title" content="Nathan Mietkiewicz">
+<meta property="og:type" content="website">
+<meta property="description" content="">
+<meta property="og:description" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://xvrdm.github.io/images/" >
+
+
+<meta name="twitter:creator" content="">
+<meta name="twitter:site" content="">
 
   <title>Nathan Mietkiewicz</title>
 
@@ -170,7 +178,8 @@
     <div id="profile">
 
       
-      <div class="portrait" style="background-image: url('/img/portrait.jpg');"></div>
+      <div class="portrait" style="background-image: url('/img/portrait.jpg');">
+      </div>
       <meta itemprop="image" content="/img/portrait.jpg">
       
 
@@ -258,9 +267,15 @@
           
           <li>Disturbance Ecology</li>
           
+          <li>R / Tidyverse / RStudio / GitHub</li>
+          
+          <li>Satellite Remote Sensing</li>
+          
           <li>Spatiotemporal Modeling</li>
           
           <li>Reproducible Science</li>
+          
+          <li>Cloud Computing</li>
           
         </ul>
       </div>
@@ -437,7 +452,7 @@
 </a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="/pdf/2016_Mietkiewicz_Kulakwoski_EcologicalApplications.pdf">
+<a class="btn btn-primary btn-outline btn-xs" href="/pdf/2016_Mietkiewicz_Kulakowski_EcologicalApplications.pdf">
   PDF
 </a>
 
@@ -599,12 +614,30 @@
 
     
 
-    <div id="container-projects" class="isotope">
-      <ul class="fa-ul" style="position: relative">
+    <div id="container-projects" class="row isotope">
 
-        
+      
+      
+      
+      
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item wildfire">
+        <div class="card">
+          
+          <a href="/project/wui/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/wui-fig2a.png" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="/project/wui/" >Costs of human-ignited wildfires in the U.S. (2001-2015)-from the Wildland-Urban Interface to wildlands</a></h4>
+            <div class="card-desription">
+              <p>The consequences (fire frequency, burned area, seasonality) and costs (suppression costs, homes destroyed, lives lost) of human vs. lightning-started wildfires, along a gradient from the WUI to wildland areas across the conterminous U.S. (2001-2015).</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
 
-      </ul>
     </div>
 
     
@@ -631,12 +664,36 @@
   </div>
   <div class="col-xs-12 col-md-8">
     
-
+    
+    <h3>Let's chat!</h3>
+    
     <ul class="fa-ul" itemscope>
 
       
       <li>
-        <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
+        <i class="fa-li fa fa-comments-o fa-2x" aria-hidden="true"></i>
+        <form action="https://formspree.io/nathan.mietkiewicz@colorado.edu" method="POST">
+          <label for="name">Your name: </label>
+          <input type="text" name="name" required="required" placeholder="here"><br>
+          <label for="email">Your email: </label>
+          <input type="email" name="_replyto" required="required" placeholder="here"><br>
+          <label for="message">Your message:</label><br>
+          <textarea rows="4" name="message" id="message" required="required" class="form-control" placeholder="I can't wait to read this!"></textarea>
+          <input type="hidden" name="_next" value="/html/thanks.html" />
+          <input type="submit" value="Send" name="submit" class="btn btn-primary btn-outline">
+          <input type="hidden" name="_subject" value="Website message" />
+          <input type="text" name="_gotcha" style="display:none" />
+        </form>
+      </li>
+      
+      
+    </ul>
+    <h3>Let's connect!</h3>
+    <ul class="fa-ul" itemscope>
+
+      
+      <li>
+        <i class="fa-li fa fa-paper-plane fa-2x" aria-hidden="true"></i>
         <span id="person-email" itemprop="email"><a href="mailto:nathan.mietkiewicz@colorado.edu">nathan.mietkiewicz@colorado.edu</a></span>
       </li>
       
@@ -656,6 +713,21 @@
 
       
 
+      
+      
+      
+      <li>
+        <i class="fa-li fa fa-twitter fa-2x" aria-hidden="true"></i>
+        <span><a href="https://twitter.com/natemietk" target="_blank">@natemietk</a></span>
+      </li>
+      
+      
+      
+      <li>
+        <i class="fa-li fa fa-github fa-2x" aria-hidden="true"></i>
+        <span><a href="https://github.com/natemietk" target="_blank">@natemietk</a></span>
+      </li>
+      
       
 
     </ul>
@@ -689,15 +761,15 @@
   </div>
 </footer>
 
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js" integrity="sha512-jGsMH83oKe9asCpkOVkBnUrDDTp8wl+adkB2D+//JtlxO4SrLoJdhbOysIFQJloQFD+C4Fl1rMsQZF76JjV0eQ==" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.2/imagesloaded.pkgd.min.js" integrity="sha512-iHzEu7GbSc705hE2skyH6/AlTpOfBmkx7nUqTLGzPYR+C1tRaItbRlJ7hT/D3YQ9SV0fqLKzp4XY9wKulTBGTw==" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js" integrity="sha512-Z5heTz36xTemt1TbtbfXtTq5lMfYnOkXM2/eWcTTiLU01+Sw4ku1i7vScDc8fWhrP2abz9GQzgKH5NGBLoYlAw==" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/plugins/ScrollToPlugin.min.js" integrity="sha512-CDeU7pRtkPX6XJtF/gcFWlEwyaX7mcAp5sO3VIu/ylsdR74wEw4wmBpD5yYTrmMAiAboi9thyBUr1vXRPA7t0Q==" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
-    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+    <script src="/js/jquery-1.12.3.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/isotope.pkgd.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.1/imagesloaded.pkgd.min.js"></script>
     <script src="/js/hugo-academic.js"></script>
+    
+
     
 
     
