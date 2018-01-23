@@ -22,7 +22,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "sprucebeetle.jpg"
+image = "sprucebeetle-head.jpg"
 caption = "1940s spruce beetle outbreak in White River National Forest, CO, USA"
 
 +++
