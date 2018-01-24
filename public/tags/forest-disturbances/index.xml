@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Nathan Mietkiewicz</copyright>
     <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/forest-disturbances/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/tags/forest-disturbances/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>How do pre-outbreak forest conditions mediate the effects of spruce beetle outbreaks on fuels complexes in subalpine forests of Colorado?</title>
@@ -16,10 +18,8 @@
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/fuels/</guid>
-      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Add text&lt;/p&gt;
-</description>
+      <description>&amp;nbsp;
+Add text</description>
     </item>
     
     <item>
@@ -28,10 +28,8 @@
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/mpb_fire/</guid>
-      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Add text&lt;/p&gt;
-</description>
+      <description>&amp;nbsp;
+Add text</description>
     </item>
     
   </channel>

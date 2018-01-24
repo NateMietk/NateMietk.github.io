@@ -8,7 +8,59 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Nathan Mietkiewicz</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography I am an ecologist and remote sensing specialist interested in forest dynamics, disturbance interactions, and wildfire, at multiple scales. My current research links wildfire ignition to the costs, consequences of human-started wildfire across the contiguous USA, specifically in and around the wildland-urban interface (WUI).
+My research leverages field based data collection, remotely sensed image analysis, and modeling procedures to understand current and future wildfire at the local, regional, and sub-continental level.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>I have taught the following course in Clark University&amp;rsquo;s Geography undergraduate education program:
+ Forest Ecology (GEOG 116); Overall Effectiveness = 92%  I have been a teaching assistant to the following courses in Clark University&amp;rsquo;s Geography and GISDE graduate and undergraduate education program:
+Undergraudate Courses:
+ Earth System Science (GEOG 104); Overall Effectiveness = 99% Forest Ecology (GEOG 116); Overall Effectiveness = 92%  Graduate Courses:
+ Advanced Topics in GIS: Raster GIS (GEOG 397); Overall Effectiveness = 94% Introduction to Remote Sensing (GEOG 383); Overall Effectiveness = 98%  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
