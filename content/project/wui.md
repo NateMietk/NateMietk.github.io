@@ -22,7 +22,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "wui-fig2a-medium.jpg"
+image = "wui-fig2a-small.jpg"
 caption = ""
 
 +++
