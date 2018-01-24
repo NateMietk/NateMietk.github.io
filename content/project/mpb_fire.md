@@ -9,7 +9,7 @@ title = "What is the relative importance of mountain pine beetle outbreaks versu
 summary = "Despite widespread concern that mountain pine beetle outbreaks lead to unprecedented increases in wildfire activity, here we demonstrated minimal effects of these pre-fire disturbances on subsequent fire occurrence. Instead, occurrence of large wildfires across the western US has been driven by extreme weather (e.g., hot, dry conditions)."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "mpb_fire.png"
+image_preview = "mpb_fire-medium.jpg"
 
 # Tags: can be used for filtering projects.
 tags = ["wildfire", "forest-disturbances"]
@@ -22,7 +22,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "mpb_fire.png"
+image = "mpb_fire-medium.jpg"
 caption = "(a) Area burned, (b) new mountain pine beetle outbreak, and (c) the wildland–urban interface across the study area from 1984 to 2013."
 
 +++

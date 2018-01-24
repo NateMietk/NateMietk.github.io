@@ -9,7 +9,7 @@ title = "Costs of human-ignited wildfires in the U.S. (2001-2015)-from the Wildl
 summary = "The consequences (fire frequency, burned area, seasonality) and costs (suppression costs, homes destroyed, lives lost) of human vs. lightning-started wildfires, along a gradient from the WUI to wildland areas across the conterminous U.S. (2001-2015)."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "wui-fig2a.png"
+image_preview = "wui-fig2a-medium.jpg"
 
 # Tags: can be used for filtering projects.
 tags = ["wildfire"]
@@ -22,7 +22,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "wui-fig2a.png"
+image = "wui-fig2a-medium.jpg"
 caption = ""
 
 +++
