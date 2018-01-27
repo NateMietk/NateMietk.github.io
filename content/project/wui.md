@@ -22,11 +22,42 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "wui-fig2a-small.jpg"
+image = "wui-fig2a-medium.jpg"
 caption = ""
 
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png"
+caption = "Default"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png"
+caption = "Ocean"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
+caption = "Dark"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png"
+caption = "Default"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png"
+caption = "Coffee theme with Playfair font"
+
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png"
+caption = "1950s"
 +++
 
 &nbsp;
 
 Add text
+
+{{< gallery >}}
