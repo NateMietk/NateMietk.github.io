@@ -32,12 +32,12 @@ caption = "Default"
 
 [[gallery_item]]
 album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png"
-caption = "Ocean"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
+caption = "Dark"
 
 [[gallery_item]]
 album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
+image = "wui-fig2a-medium.jpg"
 caption = "Dark"
 
 [[gallery_item]]
@@ -74,7 +74,7 @@ Key features:
 
 Academic is available in different color themes and font themes.
 
-{{< gallery >}}
+{{< gallery album = "1" >}}
 
 ## Install
 

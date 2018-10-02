@@ -9,7 +9,7 @@ ignoreFiles = ["\\.Rmarkdown$", "_files$", "_cache$"]
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-113196786-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
